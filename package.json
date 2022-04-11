@@ -1,7 +1,7 @@
 {
-  "name": "@inveru/styled-icons",
-  "version": "0.0.22",
-  "description": "Inveru icons.",
+  "name": "@enveru/icons",
+  "version": "0.0.1",
+  "description": "Enveru icons.",
   "main": "lib/index.js",
   "types": "index.d.ts",
   "scripts": {
@@ -9,19 +9,18 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/inveru/styled-icons.git"
+    "url": "git+https://github.com/enveru/icons.git"
   },
   "keywords": [
-    "Inveru",
-    "Styled",
+    "Enveru",
     "Icons"
   ],
   "author": "Ivan Kleynhans",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/inveru/styled-icons/issues"
+    "url": "https://github.com/enveru/icons/issues"
   },
-  "homepage": "https://github.com/inveru/styled-icons#readme",
+  "homepage": "https://github.com/enveru/icons#readme",
   "peerDependencies": {
     "react": "^18.0.0",
     "react-dom": "^18.0.0",
