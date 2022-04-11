@@ -1,0 +1,11 @@
+.env
+.git
+.github
+.DS_Store
+.gitignore
+Dockerfile
+Dockerfile.dev
+.dockerignore
+reload.sh
+docker-compose.yml
+docker-compose.dev.yml
