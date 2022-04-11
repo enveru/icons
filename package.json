@@ -1,0 +1,42 @@
+{
+  "name": "@inveru/styled-icons",
+  "version": "0.0.22",
+  "description": "Inveru icons.",
+  "main": "lib/index.js",
+  "types": "index.d.ts",
+  "scripts": {
+    "build": "webpack"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/inveru/styled-icons.git"
+  },
+  "keywords": [
+    "Inveru",
+    "Styled",
+    "Icons"
+  ],
+  "author": "Ivan Kleynhans",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/inveru/styled-icons/issues"
+  },
+  "homepage": "https://github.com/inveru/styled-icons#readme",
+  "peerDependencies": {
+    "react": "^18.0.0",
+    "react-dom": "^18.0.0",
+    "styled-components": "^5.3.5"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.17.8",
+    "@babel/preset-env": "^7.16.11",
+    "@babel/preset-react": "^7.16.7",
+    "babel-loader": "^8.2.4",
+    "babel-plugin-styled-components": "^2.0.6",
+    "webpack": "^5.71.0",
+    "webpack-cli": "^4.9.2"
+  },
+  "files": [
+    "lib"
+  ]
+}
