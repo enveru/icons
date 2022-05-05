@@ -1,6 +1,6 @@
 {
   "name": "@enveru/icons",
-  "version": "0.0.6",
+  "version": "0.0.7",
   "description": "Enveru icons.",
   "main": "lib/index.js",
   "types": "index.d.ts",
